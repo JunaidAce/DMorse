@@ -1,6 +1,6 @@
 # 🧠 DMorse — Cyber Morse Utility
 
-> Python-based Morse Code encoder & decoder for CTFs, cyberlabs, and signal translation.
+> Python-based Morse Code encoder & decoder for CTFs and signal translation.
 
 **⭐ Installation Guide**
 
@@ -10,7 +10,7 @@
 
 2. Run the tool:
    
-**python DMorse.py OR python3 DMorse.py**
+**python dmorse.py OR python3 dmorse.py**
 
 **🔹 Method 2 — Copy Code Manually**
 
