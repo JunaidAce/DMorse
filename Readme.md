@@ -2,7 +2,7 @@
 
 > Python-based Morse Code encoder & decoder for CTFs and signal translation.
 
-**⭐ Installation Guide**
+**⭐ How to get Dmorse**
 
 **🔹 Method 1 — Download & Run**
 
