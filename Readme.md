@@ -1,5 +1,7 @@
 #  DMorse — Decodes Morse Code
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 > Python-based Morse Code encoder & decoder for CTFs and signal translation.
 
 **⭐ How to get Dmorse**
