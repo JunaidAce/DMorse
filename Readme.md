@@ -1,4 +1,4 @@
-# 🧠 DMorse — Cyber Morse Utility
+#  DMorse — Decodes Morse Code
 
 > Python-based Morse Code encoder & decoder for CTFs and signal translation.
 
