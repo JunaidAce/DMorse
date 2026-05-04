@@ -19,7 +19,7 @@
 1. Copy the full DMorse.py code.
 2. Paste it into a new file and save it as:
 
-  **dmorse.py**
+  **dmorse.py or anything.py**
 
 3. Run it:
 **python dmorse.py**
