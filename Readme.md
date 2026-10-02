@@ -14,7 +14,7 @@
    
 **python dmorse.py OR python3 dmorse.py**
 
-**🔹 Method 2 — Copy Code Manually**
+**🔹 Method 2 --- Copy Code Manually**
 
 1. Copy the full DMorse.py code.
 2. Paste it into a new file and save it as:
