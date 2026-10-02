@@ -6,7 +6,7 @@
 
 **⭐ How to get Dmorse**
 
-**🔹 Method 1 — Download & Run**
+**🔹 Method 1 --- Download & Run**
 
 1. Download the DMorse.py file from the repository.
 
